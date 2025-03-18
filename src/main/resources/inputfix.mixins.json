@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.fabricmc.inputfix.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "client": [
+    "GuiScreenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
